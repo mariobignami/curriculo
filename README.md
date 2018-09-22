@@ -1,1 +1,1 @@
-# mario.bignami.github.io/curriculo
+# https://mariobignami.github.io/curriculo/
